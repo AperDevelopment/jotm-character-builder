@@ -1,0 +1,25 @@
+name: Create PR on new branches
+
+on:
+  push:
+    branches-ignore:
+      - "main"
+      - "develop"
+
+permissions:
+  pull-requests: write
+
+jobs:
+  create_pr_repo_sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create PR
+        id: open-pr
+        uses: repo-sync/pull-request@v2
+        with:
+          destination_branch: "develop"
+          pr_title: "feat: PLACEHOLDER"
+          pr_template: ".github/PR_TEMPLATE.md"
+          pr_reviewer: "CreeperStone72"
+          pr_draft: true
