@@ -1,0 +1,12 @@
+main > .button {
+    padding: 1em 2em;
+    border: none;
+    color: white;
+    text-decoration: none;
+    background-color: var(--violet-jtc);
+    text-transform: uppercase;
+}
+
+main > .button:hover {
+    background-color: var(--violet-jtc-20d);
+}
