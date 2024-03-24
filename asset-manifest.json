@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jotm-character-builder/static/css/main.868fe9c1.css",
-    "main.js": "/jotm-character-builder/static/js/main.8d1c69f3.js",
+    "main.js": "/jotm-character-builder/static/js/main.8ec0c99c.js",
     "static/media/inter-latin-ext-400-normal.woff": "/jotm-character-builder/static/media/inter-latin-ext-400-normal.40b3b0d5e09a90fb6e3e.woff",
     "static/media/inter-latin-ext-400-normal.woff2": "/jotm-character-builder/static/media/inter-latin-ext-400-normal.0f9e8d4e940df8f6edfe.woff2",
     "static/media/inter-latin-400-normal.woff": "/jotm-character-builder/static/media/inter-latin-400-normal.08a02fd275ecea6ef662.woff",
@@ -18,10 +18,10 @@
     "static/media/inter-vietnamese-400-normal.woff2": "/jotm-character-builder/static/media/inter-vietnamese-400-normal.5952d3d3c5df5a2f8e09.woff2",
     "index.html": "/jotm-character-builder/index.html",
     "main.868fe9c1.css.map": "/jotm-character-builder/static/css/main.868fe9c1.css.map",
-    "main.8d1c69f3.js.map": "/jotm-character-builder/static/js/main.8d1c69f3.js.map"
+    "main.8ec0c99c.js.map": "/jotm-character-builder/static/js/main.8ec0c99c.js.map"
   },
   "entrypoints": [
     "static/css/main.868fe9c1.css",
-    "static/js/main.8d1c69f3.js"
+    "static/js/main.8ec0c99c.js"
   ]
 }
