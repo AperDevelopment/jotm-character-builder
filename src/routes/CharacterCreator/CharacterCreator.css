@@ -1,0 +1,22 @@
+main {
+    width: 75vw;
+}
+
+h1 {
+    margin-bottom: 1em;
+}
+
+div.inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div.panel {
+    margin-top: 2em;
+    width: 30vw;
+}
+
+div.panel > h2 {
+    margin-bottom: 1em;
+}

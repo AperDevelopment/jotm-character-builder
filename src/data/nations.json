@@ -1,0 +1,72 @@
+[
+    {
+        "name": "",
+        "races": [
+            "Chromatic Dragonborn",
+            "Elf",
+            "Hill Dwarf",
+            "Human",
+            "Lightfoot Halfling"
+        ]
+    },
+    {
+        "name": "Kessendar",
+        "races": [
+            "Autognome",
+            "Dark Half-Elf",
+            "Kessani Dwarf",
+            "Rock Gnome",
+            "Stout Halfling",
+            "Tiefling (Bloodline of Dispater)",
+            "Tiefling (Bloodline of Levistus)"
+        ]
+    },
+    {
+        "name": "Daergon",
+        "races": [
+            "Gem Dragonborn",
+            "Goliath",
+            "Half-Orc",
+            "Metallic Dragonborn",
+            "Orc",
+            "Tiefling (Bloodline of Asmodeus)",
+            "Tiefling (Hellfire)"
+        ]
+    },
+    {
+        "name": "Y'sveln",
+        "races": [
+            "Forest Gnome",
+            "Goblin",
+            "Kalashtar",
+            "Svelny Elf",
+            "Svelny Half-Elf",
+            "Tiefling (Bloodline of Baalzebul)",
+            "Tiefling (Bloodline of Zariel)"
+        ]
+    },
+    {
+        "name": "Vaquesan",
+        "races": [
+            "Kender",
+            "Sea Elf",
+            "Sea Half-Elf",
+            "Tiefling (Bloodline of Mammon)",
+            "Tiefling (Winged)",
+            "Triton",
+            "Vaquisi Human"
+        ]
+    },
+    {
+        "name": "Reas-Urbex",
+        "races": [
+            "High Elf",
+            "High Half-Elf",
+            "Tiefling (Bloodline of Fierna)",
+            "Tiefling (Bloodline of Glasya)",
+            "Tiefling (Bloodline of Mephistopheles)",
+            "Tiefling (Devil's Tongue)",
+            "Warforged"
+        ]
+    }
+]
